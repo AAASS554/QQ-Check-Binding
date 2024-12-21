@@ -1,5 +1,5 @@
 # PyQt5 Card Key Authentication System
-[nglish](#english) | [中文](#中文)
+[English](#Eenglish) | [中文](#中文)
 # English
 A card key authentication system framework based on PyQt5, providing complete card key management and verification functions.
 ## Features
